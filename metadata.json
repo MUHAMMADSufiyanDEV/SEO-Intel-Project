@@ -1,0 +1,5 @@
+{
+  "name": "SEO Intel Dashboard",
+  "description": "A real-time SEO analysis and competitive intelligence dashboard, simulating features of leading SEO tools like Ahrefs and SEMrush. Provides keyword tracking, backlink analysis, competitor insights, and site health audits.",
+  "requestFramePermissions": []
+}
